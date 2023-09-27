@@ -6,3 +6,7 @@ p {
   width:30%;
   height:290px;
 }
+
+.itens {
+  font.style: italic
+}
